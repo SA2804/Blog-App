@@ -1,0 +1,56 @@
+.protest-revolution-regular {
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: larger;
+  }
+
+.main{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 85.5vh;
+}
+
+.blogTitle{
+    background-color: rgb(34, 49, 65);
+    width: 15%;
+}
+
+.blogTitle p {
+    color: blanchedalmond;
+    text-align:start;
+    padding: 10px;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.blogTitle p:hover{
+    background-color: lightgoldenrodyellow;
+    color: black;
+    border: 3px solid goldenrod;
+}
+
+.blogTitle a{
+    text-decoration: none;
+}
+
+.blogContent{
+    background-color: #F2AA4CFF;
+    width: 85%;
+}
+
+.blogContent p{
+    padding: 5px;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding: 5px;
+    
+}
