@@ -24,5 +24,3 @@ The application will allow users to create and view blog posts. Posts will not p
 * <b>Node.js & Express.js</b>: The application will be a web server built using Node.js and Express.js. Express.js will handle routing and middleware.
 * <b>EJS</b>: EJS will be used as the templating engine to generate dynamic HTML based on the application's state.
 
-## Link
-<b>https://blog-app-df4i.onrender.com/</b>
